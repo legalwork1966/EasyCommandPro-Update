@@ -1,9 +1,9 @@
 # Easy Command PRO
 
 
-![Main Window](EASYCOMMANDPRO/docs/images/page1.png)
-![Main Window](EASYCOMMANDPRO/docs/images/page2.jpg)
-![Main Window](EASYCOMMANDPRO/docs/images/page3.jpg)
+![Main Window](EASYCOMMANDPRO-UPDATE/page1.png)
+![Main Window](EASYCOMMANDPRO-UPDATE/page2.jpg)
+![Main Window](EASYCOMMANDPRO-UPDATE/page3.jpg)
 © 2019–2026 Starlight IT Solutions  
 Designed and programmed by Anthony W. Marinello  
 ---
